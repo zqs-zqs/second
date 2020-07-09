@@ -1,0 +1,25 @@
+@media (max-width:576px){
+	.my_header{
+		width:100% ;
+		border: 0;
+		height: 45%;
+	}
+}
+@media (min-width:576px){
+	.my_header{
+		width:100% ;
+		border: 0;
+		height: 46.6%;
+	}
+}
+@media (min-width:768px){
+	.my_header{
+		width: 100%;
+		border: 0;
+		height: 47%;
+	}
+	.my_footer{
+		width: 100%;
+		border: 0;
+	}
+}
